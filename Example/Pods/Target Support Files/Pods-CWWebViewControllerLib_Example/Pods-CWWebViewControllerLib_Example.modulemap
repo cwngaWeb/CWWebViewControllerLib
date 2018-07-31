@@ -1,0 +1,6 @@
+framework module Pods_CWWebViewControllerLib_Example {
+  umbrella header "Pods-CWWebViewControllerLib_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
